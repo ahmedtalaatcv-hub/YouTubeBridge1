@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YouTube Bridge</string>
+    <string name="notification_channel_name">YouTube Bridge Server</string>
+    <string name="notification_running">السيرفر يعمل على المنفذ %1$d</string>
+</resources>
